@@ -1,38 +1,55 @@
-#Phaser/TypeScript/Webpack/Capacitor Starter
+# Phaser/TypeScript/Webpack/Capacitor Starter
 
-A simple starter template for using Phaser with TypeScript, Webpack, and Capacitor for native iOS and Android builds. Using this repository will require a working knowledge of Capacitor - you can find documentation here and additional learning resources here.
+A simple starter template for using Phaser with TypeScript, Webpack, and Capacitor for native iOS and Android builds. Using this repository will require a working knowledge of Capacitor - you can find documentation [here](https://capacitor.ionicframework.com/docs/) and additional learning resources [here](http://code4developers.com/capacitor-new-native-bridge-web-apps/).
 
 As of this commit, Phaser 3 is not feature complete and Capacitor is still in alpha. I would not recommend using this in a production environment - proceed with caution.
 
-Inspiration/configuration from:
+Inspiration/configuration from: 
+- https://github.com/digitsensitive/phaser3-typescript
+- https://github.com/TooManyCaptains/TooManyCaptains
 
-    https://github.com/digitsensitive/phaser3-typescript
-    https://github.com/TooManyCaptains/TooManyCaptains
+## Install
 
-Install
-
+```
 npm install
+```
 
+```
 npx cap init
+```
 
-Develop
+## Develop
 
+```
 npm run dev
+```
 
-Build
+## Build
 
+```
 npm run build
+```
 
-Add Native Platforms
+## Add Native Platforms
 
+```
 npx cap add ios
+```
 
+```
 npx cap add android
+```
 
-Run
+## Run
 
+```
 npm run build
+```
 
+```
 npx cap open ios
+```
 
+```
 npx cap open android
+```
