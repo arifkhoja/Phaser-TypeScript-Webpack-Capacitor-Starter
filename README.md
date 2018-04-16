@@ -1,6 +1,6 @@
 # Phaser/TypeScript/Webpack/Capacitor Starter
 
-A simple starter template for using Phaser with TypeScript, Webpack, and Capacitor for native iOS and Android builds. Using this repository will require a working knowledge of Capacitor - you can find documentation [here](https://capacitor.ionicframework.com/docs/) and additional learning resources [here](http://code4developers.com/capacitor-new-native-bridge-web-apps/).
+A simple starter template for using Phaser with TypeScript, Webpack, and Capacitor for native iOS and Android builds. Using this repository will require a working knowledge of Capacitor - you can find documentation [here](https://capacitor.ionicframework.com/docs/) and additional learning resources [here](https://www.joshmorony.com/tag/capacitor/).
 
 As of this commit, Phaser 3 is not feature complete and Capacitor is still in alpha. I would not recommend using this in a production environment - proceed with caution.
 
